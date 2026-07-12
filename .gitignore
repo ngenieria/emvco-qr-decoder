@@ -1,0 +1,29 @@
+# Composer
+vendor/
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Testing
+coverage/
+.phpunit.result.cache
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local
+
+# Node (if using frontend build tools)
+node_modules/
+dist/
+
+# System
+Thumbs.db
